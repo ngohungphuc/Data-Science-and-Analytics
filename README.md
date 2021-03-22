@@ -1,8 +1,10 @@
-# Google-Data-Analytics-Certificate
+# Data-Analytics-Certificate
 
-My Google Data Analytics Certificate learning journey
+My Data Analytics Certificate learning journey
 
 Course content:
+
+### First milestone:
 
 - [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data/home/welcome)
 - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions/home/welcome)
