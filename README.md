@@ -14,3 +14,6 @@ Course content:
 - [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data/home/welcome)
 - [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r/home/welcome)
 - [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone/home/welcome)
+
+### Second milestone (Todo)
+[IBM](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=gg&utm_medium=sem&campaignid=2087860785&utm_campaign=10-IBM-Data-Science-ROW&utm_content=10-IBM-Data-Science-ROW&adgroupid=79675709431&device=c&keyword=ibm%20data%20science%20coursera&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=375774778792&hide_mobile_promo&gclid=CjwKCAjwgOGCBhAlEiwA7FUXkr9uTuh1UNCExaOwDfDqfFTn7efZ1JKXkhYwCTa39M1UjD62pw6IShoC8AwQAvD_BwE)
