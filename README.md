@@ -6,9 +6,9 @@ Course content:
 
 ### First milestone:
 
-- [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data/home/welcome)
-- [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions/home/welcome)
-- [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation/home/welcome)
+- [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data/home/welcome) ✅
+- [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions/home/welcome) ✅
+- [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation/home/welcome) ✅
 - [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data/home/welcome)
 - [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data/home/welcome)
 - [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data/home/welcome)
