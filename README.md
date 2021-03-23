@@ -4,7 +4,8 @@ My Data Analytics Certificate learning journey
 
 Course content:
 
-### First milestone:
+## First milestone 
+[Google data analysis certificate of professional qualification](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite)
 
 - [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data/home/welcome) ✅
 - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions/home/welcome) ✅
@@ -16,4 +17,5 @@ Course content:
 - [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone/home/welcome)
 
 ### Second milestone (Todo)
-[IBM](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=gg&utm_medium=sem&campaignid=2087860785&utm_campaign=10-IBM-Data-Science-ROW&utm_content=10-IBM-Data-Science-ROW&adgroupid=79675709431&device=c&keyword=ibm%20data%20science%20coursera&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=375774778792&hide_mobile_promo&gclid=CjwKCAjwgOGCBhAlEiwA7FUXkr9uTuh1UNCExaOwDfDqfFTn7efZ1JKXkhYwCTa39M1UjD62pw6IShoC8AwQAvD_BwE)
+
+[IBM Computing Certificate of Professional Qualification](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=gg&utm_medium=sem&campaignid=2087860785&utm_campaign=10-IBM-Data-Science-ROW&utm_content=10-IBM-Data-Science-ROW&adgroupid=79675709431&device=c&keyword=ibm%20data%20science%20coursera&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=375774778792&hide_mobile_promo&gclid=CjwKCAjwgOGCBhAlEiwA7FUXkr9uTuh1UNCExaOwDfDqfFTn7efZ1JKXkhYwCTa39M1UjD62pw6IShoC8AwQAvD_BwE)
