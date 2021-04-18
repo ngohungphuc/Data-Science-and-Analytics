@@ -1,6 +1,6 @@
-# Data-Analytics-Certificate
+# Data-Science-and-Analytics
 
-My Data Analytics Certificate learning journey
+My Data Science and Data Analytics Certificate learning journey
 
 Course content:
 
