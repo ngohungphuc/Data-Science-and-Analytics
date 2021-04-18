@@ -14,7 +14,7 @@ Course content:
 - [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data/home/welcome) ✅
 - [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data/home/welcome) ✅
 - [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r/home/welcome) ✅
-- [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone/home/welcome)
+- [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone/home/welcome) ✅
 
 ### Second milestone (Todo)
 
